@@ -30,7 +30,7 @@ onMounted(() => {
             <div class="offcanvas offcanvas-top bg-black h-100" tabindex="-1" id="offcanvas"
                 aria-labelledby="offcanvasLabel">
                 <div class="offcanvas-body">
-                    <ul class="navbar-nav ms-aut mt-3 mt-md-0">
+                    <ul class="navbar-nav ms-auto mt-3 mt-md-0">
                         <li class="nav-item text-uppercase">
                             <a class="nav-link active" aria-current="page" href="#">Home</a>
                         </li>
